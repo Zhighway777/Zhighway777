@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am currently pursuing my master's degree at ShanghaiTech University with a strong interest in AI compilers, computer architecture, and machine learning systems.
 
 <!--
 **Zhighway777/Zhighway777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
